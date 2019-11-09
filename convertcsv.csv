@@ -1,0 +1,308 @@
+ID,Country,Admin_region,Town,Latitude,Longitude,Year_start,Year_end,Rodent_or_human,Acutedisease_or_seroprevalence,Number_acutecases
+1,Nigeria,Kaduna State,Rahama,10.4134,8.6904,1952,1952,Human,Acute,1
+2,Liberia,Lofa County,Zorzor,7.77,-9.42,1969,1982,Human,Acute,38
+3,Nigeria,Borno State,Lassa,10.69,13.31,1969,1969,Human,Acute,1
+4,Nigeria,Plateau State,Jos,9.92,8.9,1969,1969,Human,Acute,2
+5,Cote d'Ivoire,Beoumi Prefecture,Beoumi,7.67,-5.57,1970,1974,Human,Acute,1
+6,Nigeria,Benue Plateau State,Bassa,9.93,8.73,1970,1970,Human,Acute,24
+7,Nigeria,Plateau State,Jos,9.92,8.9,1970,1973,Human,Acute,2
+8,Nigeria,Not specified,Jos,9.9365,8.8814,1970,1970,Human,Acute,15
+9,Sierra Leone,Kailahun District,Mobai,7.99,-10.75,1970,1972,Human,Acute,1
+10,Sierra Leone,Kenema District,Tongo + Panguma,8.22,-11.06,1970,1972,Human,Acute,63
+11,Sierra Leone,Kenema District,Panguma,8.18,-11.13,1970,1975,Human,Acute,12
+12,Sierra Leone,Kenema District,Panguma,8.19,-11.13,1970,1975,Human,Acute,40
+13,Liberia,Bomi County,Hayes Gowien Town,6.61,-10.8,1971,1971,Human,Acute,1
+14,Mali,Segou region,Ntorosso,13.9,5.4,1971,1971,Human,Acute,1
+15,Nigeria,Sokoto State,Sokoto,13.06,5.25,1971,1971,Human,Acute,1
+16,Liberia,Bong County,Suakoko,6.99,-9.58,1972,1972,Human,Acute,11
+17,Liberia,Lofa County,Zigida,8.04,-9.49,1972,1972,Human,Acute,11
+18,Liberia,Lofa County,Zigida,8.04,-9.49,1972,1972,Human,Acute,11
+19,Burkina Faso,Como� Province,Banfora,10.63,-4.77,1974,1974,Human,Acute,1
+20,Nigeria,East Central State,Onitsha,6.17,6.78,1974,1974,Human,Acute,3
+21,Nigeria,Adamawa State,Takum,7.27,9.98,1974,1974,Human,Acute,1
+22,Nigeria,Not specified,Vom,9.68,8.74,1975,1975,Human,Acute,3
+23,Nigeria,Not specified,Zonkwa,9.78,8.28,1975,1975,Human,Acute,1
+24,Sierra Leone,Kailahun District,Segbwema,8,-10.95,1975,1983,Human,Acute,11
+25,Liberia,Montserrado County,Paynesville,6.26,-10.7,1982,1982,Human,Acute,0
+26,Liberia,Nimba County,Ganta,7.23,-8.98,1982,1982,Human,Acute,4
+27,Nigeria,Imo State,Aba,5.12,7.37,1989,1989,Human,Acute,0
+28,Nigeria,Imo State,Aboh Mbaise,5.55,7.2,1989,1989,Human,Acute,0
+29,Nigeria,Plateau State,Jos,9.92,8.9,1992,1993,Human,Acute,2
+30,Guinea,Faranah Prefecture,Faranah,10.04,-10.74,1996,1999,Human,Acute,2
+31,Guinea,Kindia Prefecture,Kindia,10.04,-12.85,1996,1999,Human,Acute,1
+32,Guinea,Kissidougou Prefecture,Bambaya,9.34,-10.07,1996,1999,Human,Acute,1
+33,Guinea,Kissidougou Prefecture,Banankoro,9.18,-9.3,1996,1999,Human,Acute,1
+34,Guinea,Kissidougou Prefecture,Fedou,9.2,-9.9,1996,1999,Human,Acute,1
+35,Guinea,Kissidougou Prefecture,Kissidougou,9.19,-10.1,1996,1999,Human,Acute,3
+36,Guinea,Kissidougou Prefecture,Telekoro,9.18,-10.1,1996,1999,Human,Acute,1
+37,Guinea,Kissidougou Prefecture,Yende Milimou,8.89,-10.17,1996,1999,Human,Acute,1
+38,Guinea,Macenta Prefecture,Macenta,8.54,-9.47,1996,1999,Human,Acute,0
+39,Guinea,Nz�r�kor� Prefecture,Bignamou,7.33,-9.07,1996,1999,Human,Acute,1
+40,Guinea,Nz�r�kor� Prefecture,Dieke,7.35,-8.95,1996,1999,Human,Acute,1
+41,Guinea,Nz�r�kor� Prefecture,Koulenin,7.8,-8.8,1996,1999,Human,Acute,1
+42,Guinea,Nz�r�kor� Prefecture,N'Zerekore,7.75,-8.82,1996,1999,Human,Acute,8
+43,Sierra Leone,Kenema District,Kenema,7.88,-11.19,1996,2004,Human,Acute,0
+44,Sierra Leone,Kailahun District,Segbwema,8,-10.95,1996,1997,Human,Acute,160
+45,Sierra Leone,Kenema District,Bomie,8.23,-11.05,1996,1997,Human,Acute,18
+46,Sierra Leone,Kenema District,Buima,8.27,-11.11,1996,1997,Human,Acute,42
+47,Sierra Leone,Kenema District,Daabu,7.92,-10.95,1996,1997,Human,Acute,10
+48,Sierra Leone,Kenema District,Kenema,7.88,-11.19,1996,1997,Human,Acute,77
+49,Sierra Leone,Kenema District,Macca,8.15,-11.22,1996,1997,Human,Acute,10
+50,Sierra Leone,Kenema District,Pandebu,8.21,-11.13,1996,1997,Human,Acute,9
+51,Sierra Leone,Kenema District,Panguma,8.18,-11.13,1996,1997,Human,Acute,44
+52,Sierra Leone,Kenema District,Tokpombu,8.22,-11.09,1996,1997,Human,Acute,25
+53,Sierra Leone,Kenema District,Tongo,8.22,-11.05,1996,1997,Human,Acute,24
+54,Sierra Leone,Kenema District,Tongola,8.22,-11.06,1996,1997,Human,Acute,25
+55,Sierra Leone,Kailahun District,Segbwema,8,-10.95,1996,1997,Human,Acute,11
+56,Sierra Leone,Kailahun District,Daru ,7.99,-10.84,2000,2000,Human,Acute,1
+57,Nigeria,Edo State,Irrua,6.73,6.21,2001,2001,Human,Acute,17
+58,Nigeria,Edo State,Irrua,6.73,6.21,2001,2004,Human,Acute,12
+59,Sierra Leone,Bo District,Not specified,7.95,-11.74,2001,2001,Human,Acute,7
+60,Sierra Leone,Kailahun District,Not specified,8.27,-10.57,2001,2001,Human,Acute,22
+61,Sierra Leone,Kenema District,Kenema,7.88,-11.19,2001,2001,Human,Acute,235
+62,Sierra Leone,Kono District,Not specified,8.64,-10.96,2001,2001,Human,Acute,1
+63,Sierra Leone,Pujehun District,Not specified,7.36,-11.72,2001,2001,Human,Acute,3
+64,Sierra Leone,Kenema District,Kenema,7.88,-11.19,2001,2004,Human,Acute,0
+65,Sierra Leone,Bo District,Gerihun camp,7.93,-11.58,2003,2003,Human,Acute,17
+66,Sierra Leone,Bo District,Jimmi Bagbo camp,7.6,-11.82,2003,2003,Human,Acute,58
+67,Sierra Leone,Kenema District,Largo,8.04,-11.1,2003,2003,Human,Acute,9
+68,Sierra Leone,Moyamba District,Bandajuma camp,7.55,-11.64,2003,2003,Human,Acute,2
+69,Sierra Leone,Moyamba District,Taiama,8.2,-12.06,2003,2003,Human,Acute,4
+70,Liberia,Montserrado County,Paynesville,6.26,-10.7,2004,2004,Human,Acute,0
+71,Liberia,Nimba County,Ganta,7.23,-8.98,2004,2004,Human,Acute,4
+72,Nigeria,Edo State,Ekpoma,6.749,6.076,2004,2004,Human,Acute,>6
+73,Nigeria,Edo State,Ibilo,7.43,6.08,2004,2004,Human,Acute,>6
+74,Nigeria,Edo State,Igarra,7.27,6.11,2004,2004,Human,Acute,>6
+79,Liberia,Bong County,Not specified,6.83,-9.36,2008,2012,Human,Acute,12
+80,Liberia,Grand Bassa,Not specified,6.21,-9.77,2008,2012,human,Acute,24
+81,Liberia,Lofa County,Not specified,8.29,-9.76,2008,2012,Human,Acute,1
+82,Mali,Sikasso region,Soromba,10.59,-7.16,2009,2009,Human,Acute,1
+83,Nigeria,Anambra State,Not specified,6.27,7.007,2009,2009,Human,Acute,1
+84,Nigeria,Edo State,Irrua,6.73,6.21,2009,2009,Human,Acute,2
+86,Nigeria,Edo State,Irrua,6.73,6.21,2010,2010,Human,Acute,37
+87,Nigeria,East Central State,Onitsha,6.17,6.78,2010,2010,Human,Acute,1
+88,Nigeria,Ebonyi State,Abakaliki,6.32,8.09,2010,2010,Human,Acute,2
+89,Nigeria,Federal Capital Territory,Abuja,9.05,7.48,2010,2010,Human,Acute,1
+90,Nigeria,Plateau State,Jos,9.92,8.9,2010,2010,Human,Acute,3
+91,Nigeria,Edo State,Irrua,6.73,6.21,2010,2010,Human,Acute,0
+92,Sierra Leone,Tonkolili,Makeni,8.88,-12.04,2010,2010,Human,Acute,6
+93,Ghana,Amansie West,Not specified,6.45,-1.94,2011,2011,Human,Acute,1
+94,Ghana,Amansie West,Not specified,6.45,-1.94,2011,2011,Human,Acute,1
+95,Ghana,West Akim,Not specified,9.41,-0.85,2011,2011,Human,Acute,1
+97,Ghana,Not specified,Accra,5.83,-0.64,2013,2013,Human,Acute,2
+98,Benin,Atakora Department,Tanguieta-Materi-Cobly,10.78,1.67,2014,2014,Human,Acute,15
+100,Nigeria,Ebonyi State,Abakaliki,6.32,8.12,2014,2014,Human,Acute,6
+102,Nigeria,Oyo State,Ibadan,7.4,3.91,2014,2014,Human,Acute,1
+104,Sierra Leone,Wester Area Rural,Jui,8.412,-13.131,2014,2015,Human,Acute,36
+129,Sierra Leone,Kailahun District,Nyiama,7.593,-10.5,2016,2016,Human,Acute,1
+133,Nigeria,Oyo State,Ibaden,7.4029,3.9018,1965,1970,Human,Seroprevalence,0
+134,Nigeria,Bornu State,Bornu ranch,11.59,13.32,1966,1966,Human,Seroprevalence,0
+136,Sierra Leone,Kenema District,Panguma,8.18,-11.13,1970,1975,Human,Seroprevalence,0
+137,Sierra Leone,Bo District,Serabu,7.79,-12.05,1970,1972,Human,Seroprevalence,0
+138,Sierra Leone,Kailahun District,Koindu,8.46,-10.34,1970,1972,Human,Seroprevalence,0
+139,Sierra Leone,Kailahun District,Mobai Clinic,7.99,-10.75,1970,1972,Human,Seroprevalence,0
+140,Sierra Leone,Kailahun District,Segbwema,8,-10.95,1970,1972,Human,Seroprevalence,0
+141,Sierra Leone,Kenema District,Tongo + Panguma,8.22,-11.06,1970,1972,Human,Seroprevalence,0
+143,Mali,Not specified,Ntorosso,13.9,-5.4,1971,1971,Human,Seroprevalence,1
+144,Nigeria,Not specified,Sokoto,13.4,5.15,1971,1971,Human,Seroprevalence,1
+145,Nigeria,Not specified,Jos,9.55,8.54,1972,1972,Human,Seroprevalence,1
+146,Nigeria,Benue Plateau State,Du,9.75,8.89,1972,1972,Rodent,Seroprevalence,0
+147,Nigeria,Benue Plateau State,Langtang,9.15,9.8,1972,1972,Rodent,Seroprevalence,0
+148,Nigeria,Benue Plateau State,Ner-Pankshin,9.34,9.45,1972,1972,Rodent,Seroprevalence,0
+149,Nigeria,Benue Plateau State,Rukuba,9.95,8.71,1972,1972,Rodent,Seroprevalence,0
+150,Sierra Leone,Kenema District,Panguma,8.18,-11.13,1972,1972,Rodent,Seroprevalence,0
+151,Sierra Leone,Kenema District,Tongo,8.22,-11.06,1972,1972,Rodent,Seroprevalence,0
+152,Nigeria,Not specified,Jos,9.55,8.54,1973,1973,Human,Seroprevalence,1
+153,Nigeria,Benue Plateau State,Foron,9.69,8.95,1973,1973,Rodent,Seroprevalence,0
+154,Nigeria,Benue Plateau State,Fusa,9.77,9,1973,1973,Rodent,Seroprevalence,0
+155,Nigeria,Benue Plateau State,Miango,9.85,8.68,1973,1973,Rodent,Seroprevalence,0
+156,Nigeria,Benue Plateau State,Naraguta,9.98,8.89,1973,1973,Rodent,Seroprevalence,0
+157,Nigeria,Benue Plateau State,Toro,10.06,9.07,1973,1973,Rodent,Seroprevalence,0
+158,Nigeria,Benue Plateau State,Vom,9.68,8.74,1973,1973,Rodent,Seroprevalence,0
+159,Nigeria,North-Eastern State,Bara,10.37,10.73,1973,1973,Rodent,Seroprevalence,0
+160,Nigeria,North-Eastern State,Bauchi,10.31,9.85,1973,1973,Rodent,Seroprevalence,0
+161,Nigeria,North-Eastern State,Biu,10.61,12.19,1973,1973,Rodent,Seroprevalence,0
+162,Nigeria,North-Eastern State,Gogombi,10.78,13.07,1973,1973,Rodent,Seroprevalence,0
+163,Nigeria,North-Eastern State,Gombe,10.28,11.17,1973,1973,Rodent,Seroprevalence,0
+164,Nigeria,North-Eastern State,Lassa,10.69,13.31,1973,1973,Rodent,Seroprevalence,0
+165,Nigeria,North-Eastern State,Michika,10.62,13.39,1973,1973,Rodent,Seroprevalence,0
+167,Nigeria,North-Eastern State,Womdiu,10.53,13.13,1973,1973,Rodent,Seroprevalence,0
+169,Liberia,Bong County,Suakoko,6.99,-9.58,1974,1974,Human,Seroprevalence,0
+170,Liberia,Lofa County,Zorzor,7.77,-9.42,1974,1974,Human,Seroprevalence,0
+171,Liberia,Montserrado County,Monrovia,6.23,-10.69,1974,1974,Human,Seroprevalence,0
+172,Liberia,Montserrado County,Monrovia,6.31,-10.81,1974,1974,Human,Seroprevalence,0
+173,Nigeria,East Central State,Onitsha,6.17,6.78,1974,1974,Human,Seroprevalence,0
+174,Nigeria,Not specified,Takum,7.16,9.59,1974,1974,Human,Seroprevalence,2
+175,Liberia,Bassa County,Lamco Buchanan hosp.,5.87,-10.05,1976,1977,Human,Seroprevalence,0
+176,Liberia,Bong County,Bong mines ,6.69,-10.2,1976,1977,Human,Seroprevalence,0
+177,Liberia,Bong County,Suakoko,6.99,-9.58,1976,1977,Human,Seroprevalence,0
+178,Liberia,Lofa County,Foya,8.36,-10.21,1976,1977,Human,Seroprevalence,0
+179,Liberia,Lofa County,Zorzor,7.77,-9.42,1976,1977,Human,Seroprevalence,0
+180,Liberia,Montserrado County,Monrovia,6.31,-10.81,1976,1977,Human,Seroprevalence,0
+181,Liberia,Montserrado County,Monrovia,6.23,-10.69,1976,1977,Human,Seroprevalence,0
+182,Liberia,Nimba County,Ganta,7.23,-8.98,1976,1977,Human,Seroprevalence,0
+183,Liberia,Nimba County,Yekepa,7.58,-8.54,1976,1977,Human,Seroprevalence,0
+184,Sierra Leone,Bombali District,Kamabunyele,9.18,-11.93,1977,1983,Human,Seroprevalence,0
+185,Sierra Leone,Bombali District,Kamethe,9.18,-11.93,1977,1983,Human,Seroprevalence,0
+186,Sierra Leone,Bombali District,Kathumpe,9.5,-12.23,1977,1983,Human,Seroprevalence,0
+187,Sierra Leone,Kenema District,Bomie,8.23,-11.05,1977,1983,Human,Seroprevalence,0
+188,Sierra Leone,Kenema District,Konia,8.1,-11.01,1977,1983,Human,Seroprevalence,0
+189,Sierra Leone,Kenema District,Kpandebu,8.22,-11.07,1977,1983,Human,Seroprevalence,0
+190,Sierra Leone,Kenema District,Landoma,8.23,-11.07,1977,1983,Human,Seroprevalence,0
+191,Sierra Leone,Kenema District,Lowoma,8.22,-11.03,1977,1983,Human,Seroprevalence,0
+192,Sierra Leone,Kenema District,Neama,8.12,-11,1977,1983,Human,Seroprevalence,0
+193,Sierra Leone,Kenema District,Niahun,8.07,10.94,1977,1983,Human,Seroprevalence,0
+194,Sierra Leone,Kenema District,Njakundoma,8.23,-11.05,1977,1983,Human,Seroprevalence,0
+195,Sierra Leone,Kenema District,Palima,8.09,-11.33,1977,1983,Human,Seroprevalence,0
+196,Sierra Leone,Kenema District,Semewabu,8.02,-10.87,1977,1983,Human,Seroprevalence,0
+197,Sierra Leone,Kenema District,Tongola,8.22,-11.06,1977,1983,Human,Seroprevalence,0
+198,Sierra Leone,Kenema District,Yengama,7.78,-11.46,1977,1983,Human,Seroprevalence,0
+199,Sierra Leone,Bombali District,Kathumpe,9.5,-12.23,1977,1983,Rodent,Seroprevalence,0
+200,Sierra Leone,Bombali District,Mamaka,9.1,-12.32,1977,1983,Rodent,Seroprevalence,0
+201,Sierra Leone,Kenema District,Geliama,8,-11.07,1977,1983,Rodent,Seroprevalence,0
+202,Sierra Leone,Kenema District,Giehun,8.17,-11.08,1977,1983,Rodent,Seroprevalence,0
+203,Sierra Leone,Kenema District,Giema,8.2,-11.05,1977,1983,Rodent,Seroprevalence,0
+204,Sierra Leone,Kenema District,Konia,8.1,-11.01,1977,1983,Rodent,Seroprevalence,0
+205,Sierra Leone,Kenema District,Kpandebu,8.22,-11.07,1977,1983,Rodent,Seroprevalence,0
+206,Sierra Leone,Kenema District,Lalehun,8.19,-11.08,1977,1983,Rodent,Seroprevalence,0
+207,Sierra Leone,Kenema District,Landoma,8.23,-11.07,1977,1983,Rodent,Seroprevalence,0
+208,Sierra Leone,Kenema District,Lowoma,8.22,-11.03,1977,1983,Rodent,Seroprevalence,0
+209,Sierra Leone,Kenema District,Niahun,8.07,10.94,1977,1983,Rodent,Seroprevalence,0
+210,Sierra Leone,Kenema District,Palima,8.09,-11.33,1977,1983,Rodent,Seroprevalence,0
+211,Sierra Leone,Kenema District,Tongola,8.22,-11.06,1977,1983,Rodent,Seroprevalence,0
+212,Sierra Leone,Kenema District,Yengama,7.78,-11.46,1977,1983,Rodent,Seroprevalence,0
+213,Liberia,Lofa County,Foya,8.36,-10.21,1979,1979,Human,Seroprevalence,0
+214,Liberia,Lofa County,Zorzor,7.77,-9.42,1979,1979,Human,Seroprevalence,0
+215,Liberia,Grand Cape Mount County,Mano River,7.01,-11.37,1980,1980,Human,Seroprevalence,0
+216,Liberia,Montserrado County,Goodrich plantation,6.72,-10.96,1980,1980,Human,Seroprevalence,0
+217,Liberia,Lofa County,Balagualazu,7.77,-9.62,1980,1982,Human,Seroprevalence,0
+218,Liberia,Lofa County,Borlelo,8.45,-10.16,1980,1982,Human,Seroprevalence,0
+219,Liberia,Lofa County,Foya,8.36,-10.21,1980,1982,Human,Seroprevalence,0
+220,Liberia,Lofa County,Gbanwei,7.68,-9.42,1980,1982,Human,Seroprevalence,0
+221,Liberia,Lofa County,Yapoa,7.65,-9.42,1980,1982,Human,Seroprevalence,0
+222,Liberia,Lofa County,Zuwulo,7.91,-9.51,1980,1982,Human,Seroprevalence,0
+223,Liberia,Montserrado County,Farwein,6.16,-10.44,1980,1982,Human,Seroprevalence,0
+224,Liberia,Grand Cape Mount County,Mano River,7.01,-11.37,1981,1981,Human,Seroprevalence,0
+225,Liberia,Grand Cape Mount County,Robertsport,6.75,-11.36,1981,1981,Human,Seroprevalence,0
+226,Liberia,Lofa County,Foya,8.36,-10.21,1981,1981,Human,Seroprevalence,0
+227,Liberia,Maryland County,Harper,4.37,-7.71,1981,1981,Human,Seroprevalence,0
+228,Liberia,Montserrado County,Tubmanbourg,6.86,-10.82,1981,1981,Human,Seroprevalence,0
+229,Guinea,Kindia Prefecture,Madina Oula,9.88,-12.45,1982,1983,Human,Seroprevalence,0
+230,Liberia,Bong County,Ganta,7.23,-8.98,1982,1982,Human,Seroprevalence,0
+232,Guinea,Kindia Prefecture,Madina Oula/Forecariah,9.88,-12.45,1982,1982,Rodent,Seroprevalence,0
+233,Nigeria,Benue State,Gboko,7.32,9,1987,1987,Human,Seroprevalence,0
+234,Nigeria,Ondo State,Ondo,7.1,4.83,1987,1987,Human,Seroprevalence,0
+236,Nigeria,Taraba State,Gongola,8.5,11.5,1987,1987,Human,Seroprevalence,0
+238,Guinea,Boke Prefecture,Hamdalaye,11.36,-14.34,1990,1992,Human,Seroprevalence,0
+239,Guinea,Faranah Prefecture,Gbetaya,9.84,-11.03,1990,1992,Human,Seroprevalence,0
+240,Guinea,Faranah Prefecture,Kamaraya,9.88,-10.65,1990,1992,Human,Seroprevalence,0
+241,Guinea,Faranah Prefecture,Sangoyah,9.72,-10.88,1990,1992,Human,Seroprevalence,0
+242,Guinea,Faranah Prefecture,Tindo,9.97,-10.7,1990,1992,Human,Seroprevalence,0
+243,Guinea,Gueckedou Prefecture,Bawa,8.45,-10.43,1990,1992,Human,Seroprevalence,0
+245,Guinea,Gueckedou Prefecture,Fangamandou,8.5,-10.6,1990,1992,Human,Seroprevalence,0
+246,Guinea,Gueckedou Prefecture,Nongoa Mbalia,8.7,-10.37,1990,1992,Human,Seroprevalence,0
+247,Guinea,Gueckedou Prefecture,Owe Jiba,8.48,-10.44,1990,1992,Human,Seroprevalence,0
+248,Guinea,Gueckedou Prefecture,Sassani Toli,8.75,-10.3,1990,1992,Human,Seroprevalence,0
+249,Guinea,Gueckedou Prefecture,Telekolo,8.47,-10.43,1990,1992,Human,Seroprevalence,0
+250,Guinea,Kindia Prefecture,Madina Oula,9.88,-12.45,1990,1992,Human,Seroprevalence,0
+252,Guinea,Lola Prefecture,Gbah,7.62,-8.55,1990,1992,Human,Seroprevalence,0
+253,Guinea,Lola Prefecture,Gbenemou,7.71,-8.52,1990,1992,Human,Seroprevalence,0
+254,Guinea,Lola Prefecture,Thuo,7.58,-8.5,1990,1992,Human,Seroprevalence,0
+255,Guinea,Mali Prefecture,Deppal,12.08,-12.37,1990,1992,Human,Seroprevalence,0
+256,Guinea,Mali Prefecture,Mali,12.07,-12.3,1990,1992,Human,Seroprevalence,0
+257,Guinea,Pita Prefecture,Bantignel,11.11,-12.3,1990,1992,Human,Seroprevalence,0
+258,Guinea,Siguiri Prefecture,Balato,11.57,-9.32,1990,1992,Human,Seroprevalence,0
+259,Guinea,Siguiri Prefecture,Kintinian,11.6,-9.38,1990,1992,Human,Seroprevalence,0
+261,Guinea,Yomou Prefecture,Bamakama,7.72,-9.27,1990,1992,Human,Seroprevalence,0
+262,Guinea,Yomou Prefecture,Komore,7.66,-9.26,1990,1992,Human,Seroprevalence,0
+263,Guinea,Yomou Prefecture,Waita,7.61,-9.27,1990,1992,Human,Seroprevalence,0
+264,Nigeria,Borno State,Maiduguri,11.83,13.15,1992,1993,Human,Seroprevalence,0
+265,Nigeria,Nasarawa State,Not specified,8.48,8.52,1992,1993,Human,Seroprevalence,0
+267,Guinea,Gueckedou Prefecture,Denguedou,8.49,-10.44,1993,1993,Human,Seroprevalence,0
+268,Guinea,Gueckedou Prefecture,Fangamandou,8.5,-10.6,1993,1993,Human,Seroprevalence,0
+269,Guinea,Gueckedou Prefecture,Guedembou,8.76,-9.99,1993,1993,Human,Seroprevalence,0
+270,Guinea,Gueckedou Prefecture,Kassadou,8.91,-10.35,1993,1993,Human,Seroprevalence,0
+271,Guinea,Gueckedou Prefecture,Kpolodou,8.85,-10.34,1993,1993,Human,Seroprevalence,0
+272,Guinea,Gueckedou Prefecture,Tekoulo,8.54,-10.01,1993,1993,Human,Seroprevalence,0
+273,Guinea,Gueckedou Prefecture,Temessadou,8.66,-10.31,1993,1993,Human,Seroprevalence,0
+274,Guinea,Gueckedou Prefecture,Tomandou,8.5,-10.3,1993,1993,Human,Seroprevalence,0
+276,Guinea,Faranah Prefecture,Faranah,10.04,-10.74,1996,1999,Human,Seroprevalence,0
+277,Guinea,Kindia Prefecture,Kindia,10.04,-12.85,1996,1999,Human,Seroprevalence,0
+278,Guinea,Kissidougou Prefecture,Kissidougou,9.19,-10.1,1996,1999,Human,Seroprevalence,0
+279,Guinea,Macenta Prefecture,Macenta,8.55,-9.47,1996,1999,Human,Seroprevalence,0
+280,Guinea,Nz�r�kor� Prefecture,N'Zerekore,7.75,-8.82,1996,1999,Human,Seroprevalence,0
+281,Guinea,Faranah Prefecture,Gbetaya,9.84,-11.03,1996,1997,Rodent,Seroprevalence,0
+282,Guinea,Faranah Prefecture,Sangoyah,9.72,-10.88,1996,1997,Rodent,Seroprevalence,0
+283,Guinea,Gueckedou Prefecture,Bawa,8.45,-10.43,1996,1997,Rodent,Seroprevalence,0
+284,Guinea,Gueckedou Prefecture,Fangamandou,8.5,-10.6,1996,1997,Rodent,Seroprevalence,0
+285,Guinea,Gueckedou Prefecture,Nongowa,8.48,-10.44,1996,1997,Rodent,Seroprevalence,0
+286,Guinea,Gueckedou Prefecture,Owe Jiba,8.48,-10.44,1996,1997,Rodent,Seroprevalence,0
+287,Guinea,Gueckedou Prefecture,Tekoulo,8.54,-10.01,1996,1997,Rodent,Seroprevalence,0
+288,Guinea,Kindia Prefecture,Dar Es Salam,9.97,-12.34,1996,1997,Rodent,Seroprevalence,0
+290,Guinea,Kindia Prefecture,Kindia,10.04,-12.85,1996,1997,Rodent,Seroprevalence,0
+291,Guinea,Kindia Prefecture,Madina Oula,9.88,-12.45,1996,1997,Rodent,Seroprevalence,0
+292,Guinea,Kissidougou Prefecture,Boue,9.01,-9.95,1996,1997,Rodent,Seroprevalence,0
+293,Guinea,Kissidougou Prefecture,Keredou,9.18,-9.95,1996,1997,Rodent,Seroprevalence,0
+294,Guinea,Lola Prefecture,Bossou,7.65,-8.5,1996,1996,Rodent,Seroprevalence,0
+295,Guinea,Lola Prefecture,Thuo,7.58,-8.5,1996,1997,Rodent,Seroprevalence,0
+296,Guinea,Macenta Prefecture,Lorlu,8.56,-10.02,1996,1997,Rodent,Seroprevalence,0
+297,Guinea,Yomou Prefecture,Bamakama,7.71,-9.27,1996,1997,Rodent,Seroprevalence,0
+298,Guinea,Yomou Prefecture,Koumou,7.67,-9.29,1996,1997,Rodent,Seroprevalence,0
+299,Guinea,Yomou Prefecture,Waita,7.61,-9.27,1996,1997,Rodent,Seroprevalence,0
+300,Cote d'Ivoire,Duekoue Prefecture,For�t Class�e,6.66,-7.07,2000,2000,Human,Seroprevalence,0
+301,Cote d'Ivoire,Guiglo Prefecture,Guiglo,6.54,-7.48,2000,2000,Human,Seroprevalence,0
+302,Nigeria,Edo State,Irrua,6.73,6.21,2001,2004,Human,Seroprevalence,0
+304,Cote d'Ivoire,"""Abidjan and northeast""",Not specified,5.31,-4.02,2002,2007,Human,Seroprevalence,0
+305,Ghana,Not specified,Agogo,5.593,-0.185,2002,2007,Human,Seroprevalence,0
+306,Ghana,Not specified,Kumasi,6.64,-1.59,2002,2007,Human,Seroprevalence,0
+307,Ghana,Not specified,Tamale,6.69,-1.62,2002,2007,Human,Seroprevalence,0
+308,Guinea,Gueckedou Prefecture,Gueckedou,8.57,-10.13,2002,2007,Human,Seroprevalence,0
+309,Guinea,Macenta Prefecture,Macenta,8.55,-9.47,2002,2007,Human,Seroprevalence,0
+311,Guinea,Faranah Prefecture,Bantou,10.07,-10.58,2003,2005,Rodent,Seroprevalence,0
+312,Guinea,Faranah Prefecture,Gbetaya,9.84,-11.03,2003,2005,Rodent,Seroprevalence,0
+313,Guinea,Faranah Prefecture,Tanganya,10.07,-11.35,2003,2005,Rodent,Seroprevalence,0
+314,Guinea,Lola Prefecture,Laine,8.07,-8.48,2005,2005,Rodent,Seroprevalence,0
+315,Guinea,Macenta Prefecture,Kouankan,8.43,-9.14,2005,2005,Rodent,Seroprevalence,0
+317,Guinea,Boffa Prefecture,Bamba,9.99,-13.89,2006,2006,Rodent,Seroprevalence,0
+318,Guinea,Boffa Prefecture,Yafraya,10.08,-13.67,2006,2006,Rodent,Seroprevalence,0
+319,Guinea,Dalaba Prefecture,Gagal,11.09,12.3,2006,2006,Rodent,Seroprevalence,0
+320,Guinea,Faranah Prefecture,Bantou,10.07,-10.58,2006,2006,Rodent,Seroprevalence,0
+321,Guinea,Faranah Prefecture,Gbetaya,9.84,-11.03,2006,2006,Rodent,Seroprevalence,0
+322,Guinea,Faranah Prefecture,Tanganya,10.07,-11.35,2006,2006,Rodent,Seroprevalence,0
+323,Guinea,Gueckedou Prefecture,Denguedou,8.49,-10.44,2006,2006,Rodent,Seroprevalence,0
+324,Guinea,Kerouane Prefecture,Franfina,9.63,-8.94,2006,2006,Rodent,Seroprevalence,0
+325,Guinea,Kerouane Prefecture,Maikou,9.04,-9.04,2006,2006,Rodent,Seroprevalence,0
+326,Guinea,Kindia Prefecture,Ganya,10.07,-12.54,2006,2006,Rodent,Seroprevalence,0
+327,Guinea,Kindia Prefecture,Kaali,9.93,-12.7,2006,2006,Rodent,Seroprevalence,0
+328,Guinea,Kindia Prefecture,Khoneya,10.08,-12.68,2006,2006,Rodent,Seroprevalence,0
+329,Guinea,Macenta Prefecture,Macenta,8.54,-9.47,2006,2006,Rodent,Seroprevalence,0
+330,Guinea,Macenta Prefecture,Sangassou,8.61,-9.47,2006,2006,Rodent,Seroprevalence,0
+331,Guinea,Mandiana Prefecture,Kodoko,10.52,-8.98,2006,2006,Rodent,Seroprevalence,0
+332,Guinea,Mandiana Prefecture,Saourou,11.51,-9.01,2006,2006,Rodent,Seroprevalence,0
+333,Guinea,N'Zerekore Prefecture,Bhoita,8.08,-8.91,2006,2006,Rodent,Seroprevalence,0
+334,Guinea,Yomou Prefecture,Bamakama,7.71,-9.27,2006,2006,Rodent,Seroprevalence,0
+335,Nigeria,Not specified,Kako,7.691,4.619,2008,2012,Rodent,Seroprevalence,5
+336,Sierra Leone,Kailahun District,Yawei,7.82,-10.94,2009,2009,Rodent,Seroprevalence,6
+337,Sierra Leone,Kenema District,Barlie,8.02,-11.58,2009,2009,Rodent,Seroprevalence,24
+338,Sierra Leone,Kenema District,Bumpeh,8.21,-11.09,2009,2009,Rodent,Seroprevalence,13
+339,Sierra Leone,Kenema District,Gouma,8.29,-11.07,2009,2009,Rodent,Seroprevalence,0
+340,Sierra Leone,Kenema District,Joru,7.69,-11.06,2009,2009,Rodent,Seroprevalence,4
+341,Sierra Leone,Kenema District,Koi,8.04,-11.06,2009,2009,Rodent,Seroprevalence,19
+342,Sierra Leone,Kenema District,Largo,8.05,-11.11,2009,2009,Rodent,Seroprevalence,27
+343,Sierra Leone,Kenema District,Ngiehun,8.17,-11.08,2009,2009,Rodent,Seroprevalence,9
+344,Sierra Leone,Kenema District,Panguma,8.18,-11.13,2009,2009,Rodent,Seroprevalence,6
+345,Sierra Leone,Kenema District,Saama,8.28,-11.01,2009,2009,Rodent,Seroprevalence,2
+346,Sierra Leone,Kenema District,Segbwema,8,-10.95,2009,2009,Rodent,Seroprevalence,3
+347,Sierra Leone,Kenema District,Taiama,8.15,-11.2,2009,2009,Rodent,Seroprevalence,4
+348,Mali,Sikasso region,Doneguebougou,12.8,-7.98,2010,2010,Rodent,Seroprevalence,0
+349,Mali,Sikasso region,N'Tessoni,11.04,-5.98,2010,2010,Rodent,Seroprevalence,0
+350,Mali,Sikasso region,Soromba,10.59,-7.15,2010,2010,Rodent,Seroprevalence,0
+351,Sierra Leone,Moyamba,Tissana,7.9,-12.94,2010,2010,Rodent,Seroprevalence,0
+352,Nigeria,Edo State,Ekpoma,6.75,6.13,2011,2013,Rodent,Seroprevalence,9
+353,Nigeria,Not specified,Eguare-Egoro,6.775,6.097,2011,2013,Rodent,Seroprevalence,6
+354,Nigeria,Not specified,Onmba Abena,7.64,8.406,2011,2014,Rodent,Seroprevalence,3
+355,Cote d'Ivoire,Not specified,Gbaloho,7.4,-5.34,2013,2013,Rodent,Seroprevalence,4
+356,Guinea,Not specified,Madina Oula,9.874,-12.446,2014,2014,Rodent,Seroprevalence,6
+357,Mali,Not specified,Bamba,10.2259,-7.0906,2015,2015,Human,Seroprevalence,53
+358,Mali,Not specified,Banzana,10.3126,-7.1453,2015,2015,Human,Seroprevalence,15
+359,Mali,Not specified,Soromba,10.3521,-7.0921,2015,2015,Human,Seroprevalence,43
