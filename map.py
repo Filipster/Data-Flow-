@@ -28,7 +28,10 @@ Bbox
 
 map = plt.imread("2019-11-09_08-38-11.png")
 
-#fig, ax = plt.subplots(figsize=(2,8))
+
+# unhash to activate the codes below
+
+#fig, ax = plt.subplots(figsize=(2,8))      
 plt.scatter(lassa.Longitude, lassa.Latitude,  alpha= 0.2, c='b', s=10)
 plt.title('Plotting Lassa for West Africa')
 #ax.set_xlim(Bbox[0],Bbox[1])
