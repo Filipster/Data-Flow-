@@ -15,9 +15,9 @@ doencas = data.filter(items=newdata)
 type(doencas)
 
 doencas.dropna(inplace = True)
-doencas['Country'].astype(float)
-doencas['Number_acutecases'].astype(float)
+D1 = doencas['Country'].astype(float)
+D2 = doencas['Number_acutecases'].astype(float)
 
-doencas.plot('Country', 'Number_acutecases')
-
+plt.plot(D1, D2)
+plt.show()
 
