@@ -1,6 +1,5 @@
 Lassa Fever Research @DataFlow
 
-https://img.shields.io/github/license/Filipster/lassafever
 
 
 ==============================
