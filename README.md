@@ -1,6 +1,6 @@
-Lassa Fever Research @DataFlow
+#Lassa Fever Research @DataFlow
 
-
+![lass](https://raw.githubusercontent.com/Filipster/lassafever/master/reports/figures/Lassa.png)
 
 ==============================
 
