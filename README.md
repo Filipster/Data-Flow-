@@ -1,7 +1,7 @@
 Lassa Fever Research @ DataFlow 
 ==============================
 <p align="center">
-![lass](https://raw.githubusercontent.com/Filipster/lassafever/master/DataFlowLogo.png)
+<img src="https://raw.githubusercontent.com/Filipster/Data-Flow-/master/DataFlowLogo.png">
 </p>
 
 This repository aims to show results of data analysis studies and in order to study the outbreaks of Lassa fever to better understand the dynamics of this disease. We will also deal with data processing tools and machine learning, where applicable.
