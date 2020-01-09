@@ -4,6 +4,9 @@
 </p>
 
 ![](https://img.shields.io/github/issues/Filipster/lassafever)
+![](https://img.shields.io/github/license/Filipster/lassafever)
+
+
 This repository aims to show results of data analysis studies and in order to study the outbreaks of Lassa fever to better understand the dynamics of this disease. We will also deal with data processing tools and machine learning, where applicable.
 
 Project Organization
