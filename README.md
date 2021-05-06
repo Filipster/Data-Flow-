@@ -7,7 +7,9 @@
 ![](https://img.shields.io/github/license/Filipster/lassafever)
 
 
-This repository aims to show results of data analysis studies and in order to study the outbreaks of Lassa fever to better understand the dynamics of this disease. We will also deal with data processing tools and machine learning, where applicable.
+wwww.socialdataflow.com
+
+dataflow is a project in partnership with the ecuatorian ministry of healthcare that aims to develop a new ecosystem of data in the field of medicine and also, help the doctors to take decisions into data science 
 
 Project Organization
 ------------
